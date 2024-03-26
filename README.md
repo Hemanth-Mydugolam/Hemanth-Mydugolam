@@ -11,7 +11,6 @@ Welcome to my GitHub repository! This repository serves as a showcase of my work
 - [Education](#education)
 - [Experience](#experience)
 - [Contact](#contact)
-- [License](#license)
 
 ## Introduction
 Highly motivated, technologically inquisitive Data enthusiast with over 6 years’ experience in solving business problems using data and analytics. Proficient in using statistics, machine learning techniques, programming & database methods for problem solving. Proven history of successfully working on solo and group projects.
@@ -59,6 +58,3 @@ Feel free to reach out to me via:
 - LinkedIn: https://www.linkedin.com/in/hemanth-mydugolam/
 - Portfolio: https://hemanth-mydugolam.shinyapps.io/Portfolio/
 
-## License
-
-This repository is licensed under the [License Name](LICENSE).

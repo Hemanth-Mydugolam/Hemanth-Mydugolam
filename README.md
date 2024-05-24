@@ -13,7 +13,7 @@ Welcome to my GitHub repository! This repository serves as a showcase of my work
 - [Contact](#contact)
 
 ## Introduction
-Highly motivated, technologically inquisitive Data enthusiast with over 6 years’ experience in solving business problems using data and analytics. Proficient in using statistics, machine learning techniques, programming & database methods for problem solving. Proven history of successfully working on solo and group projects.
+Highly motivated, technologically inquisitive Data enthusiast with over 6 years’ experience in solving business problems using data and analytics. Proficient in using statistics, machine learning techniques, programming & database methods for problem solving. Proven history of successfully working on solo and group projects. My contributions at the Neuroscience Department in UT Dallas as a student assistant led to me being honored with the ‘Student Employee of the Year Award’ for 2023-2024, reflecting the impact of my work in enhancing processes and achieving notable results.
 
 - 🔭 I’m currently working on building chatbots with integration of the gpt-3.5-turbo.
 - 🌱 I’m currently learning the concepts of Large Language Models (Generative Pre-trained Transformer)

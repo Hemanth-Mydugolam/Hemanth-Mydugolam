@@ -5,7 +5,7 @@
 
 Welcome to my GitHub repository! This repository serves as a showcase of my work, skills, and interests. Below, you'll find more information about me and my experience.
 
-## Table of Contents
+## Contents
 - [Introduction](#introduction)
 - [Skills](#skills)
 - [Education](#education)

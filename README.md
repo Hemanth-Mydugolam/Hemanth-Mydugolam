@@ -28,7 +28,7 @@ Highly motivated, technologically inquisitive Data enthusiast with over 6 yearsâ
 ## Education
 **MS Business Analytics**, The University of Texas at Dallas, 2024
 
-**Bachelor of Engg - Electronics & Communication**, Jawaharlal Nehru Technological University, 2017
+**Bachelor of Engg - Electronics & Communication**, Jawaharlal Nehru Technological University
 
 ## Experience
 **Data Science Intern, The University of Texas at Dallas (May 2023 - Current)**

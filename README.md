@@ -31,7 +31,7 @@ Highly motivated, technologically inquisitive Data enthusiast with over 6 yearsâ
 **Bachelor of Engg - Electronics & Communication**, Jawaharlal Nehru Technological University
 
 ## Experience
-**Data Science, The University of Texas at Dallas (May 2023 - Current)**
+**Data Scientist, The University of Texas at Dallas (May 2023 - Current)**
 
 In my role, I've been responsible for designing, developing, and maintaining visually engaging and interactive single-cell RNA web application dashboards using RShiny. These dashboards have allowed users to effectively interact with large and complex datasets, enhancing their data analysis capabilities. Additionally, I led the development and deployment of a centralized Sensoryomics web application, streamlining access to diverse datasets and implementing Git version control for efficient collaboration and management. Furthermore, I developed a comprehensive Power BI dashboard for internal budgets, empowering stakeholders to allocate grants efficiently and monitor expenditure. This initiative resulted in a notable 25% reduction in administrative time and significantly improved financial decision-making capabilities within the organization.
 

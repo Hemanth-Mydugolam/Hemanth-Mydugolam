@@ -54,7 +54,6 @@ I developed and implemented a smart auditing process using machine learning tech
 ## Contact
 
 Feel free to reach out to me via:
-- 📧 Email: hemanth.mydugolam@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/hemanth-mydugolam/
 - 🔗 Portfolio: https://hemanth-mydugolam.shinyapps.io/Portfolio/
 

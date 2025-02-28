@@ -13,7 +13,7 @@ Welcome to my GitHub repository! This is Hemanth 👋, a Data enthusiast with ov
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,anaconda,r,google,bots,ai,pytorch,pycharm,sqlite,stackoverflow,matlab,visualstudio,aws,azure,docker,git,html,linux,js,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,anaconda,r,bots,ai,pytorch,pycharm,sqlite,stackoverflow,matlab,visualstudio,aws,azure,docker,git,html,linux,js,css,c)](https://skillicons.dev)
 
 ## Education
 **MS Business Analytics**, The University of Texas at Dallas, 2024

@@ -40,7 +40,10 @@ I spearheaded efforts to streamline processes, saving nearly 600 hours annually 
 
 I developed and implemented a smart auditing process using machine learning techniques across various marketing regions, leading to a notable 15% increase in transaction error capture and saving 3.7 FTE. Additionally, I enhanced the invoice processing methodology by optimizing transaction delivery through a prioritization algorithm, resulting in a 10% improvement. Furthermore, I designed and implemented operational and ad-hoc reporting dashboards utilizing R Shiny, Power BI, and Excel to track audit and invoice processes efficiently. Moreover, I collaborated closely with internal stakeholders to develop and maintain automation solutions using R, which significantly improved the efficiency and accuracy of analytical reports, contributing to enhanced operational performance.
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanth-Mydugolam&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-Mydugolam&layout=compact)
 ## Contact
 
 Feel free to reach out to me via:

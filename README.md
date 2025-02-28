@@ -1,11 +1,8 @@
 <!--
 **Hemanth-Mydugolam/Hemanth-Mydugolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hemanth Mydugolam
 
-Welcome to my GitHub repository! This repository serves as a showcase of my work, skills, and interests. Below, you'll find more information about me and my experience.
-
-## Introduction
+## Hemanth Mydugolam
 Welcome to my GitHub repository! This is Hemanth 👋, a Data enthusiast with over 7 years’ experience in solving business problems using data and analytics. Proficient in using statistics, machine learning techniques, programming & database methods for problem solving. Proven history of successfully working on solo and group projects. I am passionate about Machine Learning, with a strong focus on Reinforcement Learning, Image Classification, and Large Language Models. I enjoy exploring innovative solutions and leveraging cutting-edge AI techniques to solve complex problems. My contributions at the Neuroscience Department in UT Dallas as a Data Scientist led to me being honored with the **‘Student Employee of the Year Award’** for 2023-2024, reflecting the impact of my work in enhancing processes and achieving notable results.
 
 - 🔭 I’m currently working on building chatbots with integration of the gpt-3.5-turbo.

@@ -21,7 +21,7 @@ Welcome to my GitHub repository 👋. I'm a Data enthusiast with over 7 years’
 **Bachelor of Engg - Electronics & Communication**, Jawaharlal Nehru Technological University
 
 ## Experience
-**Data Scientist, The University of Texas at Dallas (May 2023 - Current)**
+**Senior Data Scientist, The University of Texas at Dallas (May 2023 - Current)**
 
 **Data Scientist II , Honeywell (June 2021 - July 2022)**
 

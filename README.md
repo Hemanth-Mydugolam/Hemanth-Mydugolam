@@ -39,5 +39,5 @@ Welcome to my GitHub repository 👋. I'm a Data enthusiast with over 7 years’
 
 Feel free to reach out to me via:
 - 🌐 LinkedIn: https://www.linkedin.com/in/hemanth-mydugolam/
-- 🔗 Portfolio: https://hemanth-mydugolam.shinyapps.io/Portfolio/
+- 🔗 Portfolio: https://hemanth-mydugolam.github.io/Portfolio/
 

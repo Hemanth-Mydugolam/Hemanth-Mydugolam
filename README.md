@@ -13,7 +13,15 @@ Welcome to my GitHub repository 👋. I'm a Data enthusiast with over 7 years’
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,anaconda,r,bots,ai,pytorch,pycharm,sqlite,stackoverflow,matlab,visualstudio,aws,azure,docker,git,html,linux,js,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,anaconda,r,bots,ai,pycharm,sqlite,fastapi,stackoverflow,matlab,visualstudio,aws,azure,docker,git,html,linux,js,css,c)](https://skillicons.dev)
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 
 ## Education
 **MS Business Analytics**, The University of Texas at Dallas, 2024

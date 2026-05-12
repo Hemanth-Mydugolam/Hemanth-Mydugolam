@@ -39,8 +39,7 @@ Welcome to my GitHub repository 👋. I'm a Data enthusiast with over 7 years’
 
 ## GitHub Stats
 
-![Profile Views](https://count.getloli.com/get/@Hemanth-Mydugolam?theme=rule34)
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemanth-Mydugolam&theme=radical)
 
 ## Contact
 

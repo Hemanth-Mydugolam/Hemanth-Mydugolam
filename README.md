@@ -38,13 +38,9 @@ Welcome to my GitHub repository 👋. I'm a Data enthusiast with over 7 years’
 **Programer Analyst, Cognizant (Mar 2018 - August 2019)**
 
 ## GitHub Stats
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanth-Mydugolam&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2)
 
 ![Profile Views](https://count.getloli.com/get/@Hemanth-Mydugolam?theme=rule34)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-Mydugolam&layout=compact&theme=radical&hide_border=true)
 
 ## Contact
 
